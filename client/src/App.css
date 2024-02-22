@@ -1,0 +1,13 @@
+* {
+  --background: rgb(243, 245, 249);
+  color: #000;
+}
+
+body {
+  background-color: var(--background);
+  display: block;
+}
+
+#root {
+  width: 100%;
+}
