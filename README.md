@@ -8,7 +8,7 @@ Test app for Your It Soft company
 - NestJS
 - Open API (Swagger)
 - PostgreSQL
-- TypeOrm
+- TypeORM
 - PassportJS
 - React
 - Material UI
